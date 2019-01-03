@@ -1,7 +1,8 @@
 {
 	"name": "Mini Vidy",
+	"author": "Mini Vidy Creators",
+	"description": "Offers increased productivity through making a floating video player that floats through every tab",
 	"version": "1.0",
-	"description": "Extension for floating video",
 	"manifest_version": 2,
 
 
