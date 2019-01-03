@@ -1,0 +1,16 @@
+{
+	"name": "Mini Vidy",
+	"version": "1.0",
+	"description": "Extension for floating video",
+	"manifest_version": 2,
+
+	"background": {
+	    "scripts": [ "background.js" ],
+		"persistent": false
+	},
+
+	"permissions": [
+		"storage",
+		"tabs"
+	]
+}
