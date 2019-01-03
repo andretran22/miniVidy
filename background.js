@@ -7,3 +7,10 @@ var MINI_SCREEN_LAST_LEFT = 'miniScreenLastLeft';
 var MINI_SCREEN_LAST_HEIGHT = 'miniScreenLastHeight';
 var MINI_SCREEN_LAST_WIDTH = 'miniScreenLastWidth';
 var miniVidy = true;
+
+chrome.browserAction.onClicked.addListener(buttonClicked)
+
+function buttonClicked()
+{
+
+}
