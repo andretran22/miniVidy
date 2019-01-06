@@ -8,16 +8,9 @@
 		"scripts": [ "background.js" ],
 		"persistent": false
 	},
-
-
+	"permissions": ["storage"],
 	"browser_action": {
-		"default_popup": "options.html",
-		"default_icon": "button.png"
-	},
+        "name": "Click to change the icon's color"
+    }
 
-	"permissions": [
-		"storage",
-		"tabs"
-	]
-
-	}
+}
